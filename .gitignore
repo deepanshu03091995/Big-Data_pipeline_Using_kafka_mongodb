@@ -1,0 +1,11 @@
+
+.idea
+venv/
+*.egg-info
+logs/*
+*.log
+*.pyc
+Credential.md
+.env/
+.ipynb_checkpooints/
+kafka.egg-info/
